@@ -7,6 +7,10 @@
         "bitset": "cpp",
         "algorithm": "cpp",
         "format": "cpp",
-        "string_view": "cpp"
+        "string_view": "cpp",
+        "iosfwd": "cpp",
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "istream": "cpp"
     }
 }
